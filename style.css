@@ -12,6 +12,7 @@ h1 {
   font-size: 80px;
   color: aliceblue;
 }
+/* css for button set and hover effect */
 
 .btn-container {
   text-align: center;
@@ -50,7 +51,8 @@ button:hover {
   align-items: center;
 }
 
-/* second section donate today */
+/*  css for second section donate today created*/
+
 .heading-today {
   margin-bottom: 25px;
 }
@@ -117,7 +119,7 @@ h2 {
   border: none;
 }
 
-/* our donate plan */
+/* css for our donate plan */
 .heading-donate {
   margin-bottom: 30px;
 }
